@@ -1,0 +1,16 @@
+.homeSection{
+    text-align: center;
+}
+
+.aboutSection{
+    text-align: center;
+}
+.aboutSection img{
+    border: 2px solid black;
+    border-radius: 50%;
+    height: 350px;
+}
+.aboutSection p{
+    margin-left: 30%;
+    margin-right: 30%;
+}
